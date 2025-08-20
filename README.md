@@ -32,6 +32,6 @@ pip install -r ./requirements.txt
 
 ## 查看GameVersion
 
-进到游戏主界面(如下图),左下角的GamgeVersion的值即为游戏版本,如截图显示为 `1.0.21`
+进到游戏主界面(如下图),左下角的GameVer的值即为游戏版本,如截图显示为 `1.0.21`
 
 ![查看GameVersion](images/gameversion.jpg)
